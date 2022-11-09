@@ -34,5 +34,9 @@ var weapon = [
   "the ceiling fan blade",
 ];
 for (var i = 0; i < 100; i++) {
-  var h3 = $("body").append("<h3></h3>");
+  var h3;
+
+  if (i < 100);
+
+  h3 = $("body").append("<h3></h3>");
 }
